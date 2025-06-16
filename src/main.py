@@ -87,7 +87,8 @@ def main():
     print('"""')
     print("\nSOURCES:")
     print('"""')
-    print(url)
+    print("https://en.wikipedia.org/wiki/Interval_scheduling")
+    print("https://en.wikipedia.org/wiki/Greedy_algorithm")
     print('"""')
 
 if __name__ == "__main__":
